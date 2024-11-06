@@ -3,4 +3,4 @@
   value: 'https://github.com/jland-redhat/ai-accelerator.git'
 - op: replace
   path: /spec/source/targetRevision
-  value: main
+  value: composer-updates
